@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .love-block {
-  background: url("images/bc2.jpg") no-repeat center center/cover; 
+  background: url("bc2.jpg") no-repeat center center/cover; 
   border: 1px solid #F7F3ED; 
   border-radius: 14px;
   padding: 28px;
@@ -408,3 +408,4 @@ h1, h2, h3, h4, h5, h6 {
     height: 200px;
   }
 }
+
